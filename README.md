@@ -1,4 +1,4 @@
-# contracts
+# Contracts
 Smart Contracts (Solidity) providing marketplace functionality
 
 This repository contains an early version of the contract(s) Sample is in the process of writing in order to build a data marketplace. The basic structure, as of this writing, is one script (mvp.sol) which contains a wrapper contract (SampleTypes), and three contracts:
